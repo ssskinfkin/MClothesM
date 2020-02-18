@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to MClothesM
 
-You can use the [editor on GitHub](https://github.com/ssskinfkin/MClothesM/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](icon.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Colors can always express our feelings appropriately.
 
-### Markdown
+Pure pigments are elegant and clean,and contrasting colors are full of patterns.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Because of these colors, our world is particularly beautiful.
 
-```markdown
-Syntax highlighted code block
+As the first snow falls, it is quiet and beautiful, like a breeze blowing on the face, it makes people feel heartless,
 
-# Header 1
-## Header 2
-### Header 3
+### Contact us:HymanElijahhSeSl@yahoo.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssskinfkin/MClothesM/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you!
